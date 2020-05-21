@@ -6,8 +6,10 @@ class School
     @name = name
   end
   
-  def name
+  def name= (name)
     @name
   end
+  
+  
   
 end
