@@ -6,4 +6,6 @@ class School
     @name = name
   end
   
+  
+  
 end
