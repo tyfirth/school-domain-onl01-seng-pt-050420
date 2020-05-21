@@ -12,5 +12,7 @@ class School
     @roster[grade].push(name)
   end
   
+  def 
+  
   
 end
