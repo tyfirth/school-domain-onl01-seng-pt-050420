@@ -7,7 +7,7 @@ class School
     @roster = {}
   end
   
-  def add_students(student, grade)
+  def add_student(student, grade)
     @roster[grade] = [] if @roster[grade].nil?
     @roster[grade].push(student)
   end
